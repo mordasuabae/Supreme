@@ -1,0 +1,25 @@
+/* *{
+
+} */
+
+nav{
+    background:#da1a32;                                                                                                                                                                                                                                                                                                                                                                                                                            ;
+    border: 2px;
+    width: inherit;
+    height: 200px;
+    line-height: 1.42857143;  
+    color: white;
+    display: grid;
+    text-decoration: none;
+
+    /* display: inline; */
+}
+li{
+    display: flex;
+}
+.navlinks{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}   
+
